@@ -1,5 +1,8 @@
 # esx_jobbuilder
 
+# Interdiction
+- De s'approprier la ressource !
+
 #  Version
 
 Beta
